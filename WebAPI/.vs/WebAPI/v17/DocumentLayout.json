@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Piotr\\Desktop\\Wariant 1\\WebAPI\\WebAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\grzeg\\desktop\\zadanie-4-wariat-1-grzegorzpolewczak\\webapi\\webapi\\services\\produktyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\produktyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\grzeg\\desktop\\zadanie-4-wariat-1-grzegorzpolewczak\\webapi\\webapi\\services\\iproduktyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\iproduktyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\grzeg\\desktop\\zadanie-4-wariat-1-grzegorzpolewczak\\webapi\\webapi\\controllers\\produktycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\produktycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\grzeg\\desktop\\zadanie-4-wariat-1-grzegorzpolewczak\\webapi\\webapi\\models\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\grzeg\\desktop\\zadanie-4-wariat-1-grzegorzpolewczak\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\grzeg\\desktop\\zadanie-4-wariat-1-grzegorzpolewczak\\webapi\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\grzeg\\desktop\\zadanie-4-wariat-1-grzegorzpolewczak\\webapi\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\grzeg\\desktop\\zadanie-4-wariat-1-grzegorzpolewczak\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,6 +87,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProduktyService.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Services\\ProduktyService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\ProduktyService.cs",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Services\\ProduktyService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\ProduktyService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:47:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProduktyService.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Services\\IProduktyService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\IProduktyService.cs",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Services\\IProduktyService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\IProduktyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:46:43.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProduktyController.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Controllers\\ProduktyController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProduktyController.cs",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Controllers\\ProduktyController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProduktyController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:40:59.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produkt.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Models\\Produkt.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Produkt.cs",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Models\\Produkt.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Produkt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:38:20.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T07:27:54.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.http",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI\\WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-01T07:27:47.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T07:27:32.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\grzeg\\Desktop\\zadanie-4-wariat-1-GrzegorzPolewczak\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T07:25:52.107Z",
+              "EditorCaption": ""
             }
           ]
         },
